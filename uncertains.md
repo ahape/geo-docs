@@ -1,0 +1,13 @@
+- Antigua and Barbuda
+- Comoros
+- Dominica
+- Kiribati
+- Nauru
+- Palau
+- Saint Kitts and Nevis
+- Saint Lucia
+- Saint Vincent and the Grenadines
+- Tonga
+- Trinidad and Tobago
+- Tuvalu
+- Vanuatu
